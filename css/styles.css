@@ -1,0 +1,247 @@
+#title{
+    background-color: #e9896a ;
+  
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+
+
+h1{
+    
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #ffffff;
+  
+}
+/* nav bar */
+.navbar{
+  padding:0 0 4.5rem ;
+  
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+ 
+}
+.nav-item{
+  padding: 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+/* download button */
+.download-button{
+  font-family: "Montserrat-Light";
+ margin:5% 3% 5% 0;
+}
+/* title image */
+.title-image{
+  width: 60%;
+  transform: rotate(25deg);
+  
+  
+}
+/* feature section */
+.feature-box{
+  text-align: center;
+  padding: 5%;
+  font-family: "Montserrat-Bold";
+ }
+
+.feature-box P{
+  color: #8f8f8f;
+}
+.icon{
+  color: #e9896a;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color:#c15050 ;
+}
+/* testimonial section */
+#testimonials{
+  text-align: center;
+  background-color: #e9896a;
+  font-family: "Montserrat-Bold";
+  color: #ffffff;
+}
+h2{
+  font-size: 3rem;
+  line-height: 1.5;
+  
+}
+.testimonials-image{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #e9896a;
+  text-align: center;
+}
+.press-logo{
+  width: 15%;
+  margin:20px 20px 50px ;
+
+}
+
+/* pricing */
+/* build your own custom Bootstrap theme:
+   https://themestr.app
+*/body{padding-top:20px}
+
+.pricing-table .plan {
+  margin-left:0px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #f3f3f3;
+  -moz-box-shadow: 0 0 6px 2px #b0b2ab;
+  -webkit-box-shadow: 0 0 6px 2px #b0b2ab;
+  box-shadow: 0 0 6px 2px #b0b2ab;
+}
+ 
+ .plan:hover {
+  background-color: #fff;
+  -moz-box-shadow: 0 0 12px 3px #b0b2ab;
+  -webkit-box-shadow: 0 0 12px 3px #b0b2ab;
+  box-shadow: 0 0 12px 3px #b0b2ab;
+}
+ 
+ .plan {
+  padding: 20px;
+  margin-left:0px;
+  color: #ff;
+  background-color: #5e5f59;
+  -moz-border-radius: 5px 5px 0 0;
+  -webkit-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+}
+  
+.plan-name-bronze {
+  padding: 20px;
+  color: #fff;
+  background-color: #665D1E;
+  -moz-border-radius: 5px 5px 0 0;
+  -webkit-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+ }
+  
+.plan-name-silver {
+  padding: 20px;
+  color: #fff;
+  background-color: #C0C0C0;
+  -moz-border-radius: 5px 5px 0 0;
+  -webkit-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+ }
+  
+.plan-name-gold {
+  padding: 20px;
+  color: #fff;
+  background-color: #FFD700;
+  -moz-border-radius: 5px 5px 0 0;
+  -webkit-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+  } 
+  
+.pricing-table-bronze  {
+  padding: 20px;
+  color: #fff;
+  background-color: #f89406;
+  -moz-border-radius: 5px 5px 0 0;
+  -webkit-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+}
+  
+.pricing-table .plan .plan-name span {
+  font-size: 20px;
+}
+ 
+.pricing-table .plan ul {
+  list-style: none;
+  margin: 0;
+  -moz-border-radius: 0 0 5px 5px;
+  -webkit-border-radius: 0 0 5px 5px;
+  border-radius: 0 0 5px 5px;
+}
+ 
+.pricing-table .plan ul li.plan-feature {
+  padding: 15px 10px;
+  border-top: 1px solid #c5c8c0;
+  margin-right: 35px;
+}
+ 
+.pricing-three-column {
+  margin: 0 auto;
+  width: 80%;
+  
+}
+ 
+.pricing-variable-height .plan {
+  float: none;
+  margin-left: 2%;
+  vertical-align: bottom;
+  display: inline-block;
+  zoom:1;
+  *display:inline;
+}
+ 
+.plan-mouseover .plan-name {
+  background-color: #4e9a06 !important;
+}
+ 
+.btn-plan-select {
+  padding: 8px 25px;
+  font-size: 18px;
+}
+
+/* pricing text*/
+.price-heading{
+  text-align: center;
+  font-family: "Montserrat-Bold";
+}
+.price-para{
+  text-align: center;
+  font-family: "Montserrat-Bold";
+}
+
+#cta{
+  font-family: "Montserrat-Bold";
+  text-align: center;
+  background-color: #e9896a;
+  height: 15rem;
+}
+.footer-heading{
+  color: #fff;
+  font-size: 3rem;
+  padding-top: 60px;
+}
+.button{
+  margin:1.5% ;
+ 
+}
+#footer{
+  text-align: center;
+  font-family: "Montserrat-Bold";
+ 
+}
+.footer-icon{
+  margin:5% 2% 3% ;
+}
+.footer-para {
+  text-align: center;
+  font-family: "Montserrat-Bold";
+  padding-bottom: 100px;
+ 
+}
+.end-strip{
+  background-color: #e9896a;
+  height: 20px;
+}
